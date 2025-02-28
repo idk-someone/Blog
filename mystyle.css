@@ -9,11 +9,15 @@
 }
 
 .menu:hover{
-    color: rgb(21, 0, 0);
-
-
+    color: hwb(0 64% 14%);
 }
 
+#hover:hover{
+    color: hwb(0 64% 14%);
+}
+#hover{
+    color: white;
+}
 
 .title{
     margin: 0 auto;
